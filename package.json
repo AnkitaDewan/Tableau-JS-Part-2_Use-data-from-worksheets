@@ -3,7 +3,7 @@
   "version": "1",
   "description": "JS Tableau initegration",
   "main": "index.js",
-  "repository": "https://github.com/AnkitaDewan/tableau-extensions-tutorial-part-one",
+  "repository": "https://github.com/AnkitaDewan/Tableau-JS-Part-2_Use-data-from-worksheets",
   "author": "Ankita Dewan",
   "license": "MIT",
   "dependencies": {
