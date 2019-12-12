@@ -1,2 +1,2 @@
-# Tableau Data Extension Tutorial Part One
-# First Tableau Data Extension
+# Tableau Data Extension Tutorial Part Two
+# Using data from worksheets
